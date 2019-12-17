@@ -9,7 +9,7 @@ public class Hello {
 		/*
 		 * Hello Class의 처음 실행되는 프로그램 main.
 		 */
-		//int num1 = 30;
+//int num1 = 30;
 //		String str = "Hello, World";
 		//int age = 26;
 //		int maxSpeed = 100;// max_speed;

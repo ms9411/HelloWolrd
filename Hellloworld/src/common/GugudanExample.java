@@ -6,7 +6,7 @@ public class GugudanExample {
 		for(int i = 1; i <= 9; i++) {
 		System.out.println(var2 + " * " + i + " = " + (var2*i));	
 		}
-		
+	
 	}
 
 }

@@ -5,7 +5,7 @@ public class BooleanExample {
 		boolean trueOrFalse = 100 > 20 ;
 		int var1 = 10;
 		trueOrFalse = var1 > 15;
-		
+	
 		for (int i = 0; i < 10; i++) {
 			trueOrFalse = var1++ > 15;
 			if (trueOrFalse)

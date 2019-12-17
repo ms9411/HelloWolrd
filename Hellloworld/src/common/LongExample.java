@@ -8,7 +8,7 @@ public class LongExample {
 		long var4 = 10000000000000L;
 		System.out.println(var4);
 		
-		
+	
 		
 	}
 

@@ -5,7 +5,7 @@ public class IntExample {
 		int var1 = 10;
 		int var2 = 010;
 		int var3 = 0x10;
-		
+	
 		System.out.println("var1: "+var1);
 		System.out.println("var2: "+var2);
 		System.out.println("var3: "+var3);
