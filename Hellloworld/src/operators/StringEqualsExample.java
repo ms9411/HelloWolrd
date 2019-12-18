@@ -26,4 +26,11 @@ public class StringEqualsExample {
 		}
 		System.out.println(var1 + ", " + var2);
 	}
+
+	int score = 85;{
+	char grade = (score>90) ? 'A' : 'B';
+	if (score>90) {
+		grade = 'A';
+	} else grade = 'B';
+	}
 }
