@@ -15,9 +15,9 @@ public class ArrayExample { // 학생5명 1.입력 2.합계 3.평균 4.종료 �
 		int[] scores = {100, 90, 80, 0, 0};
 		int summary = 0;
 		double avg = 0;
-		for(int i=0; i<5; i++) {
+		for(int i=0; i<3; i++) {
 			summary += scores[i];
-			avg = summary/5;
+			avg = summary/3;
 		}
 		Scanner scanner = new Scanner(System.in);
 		
