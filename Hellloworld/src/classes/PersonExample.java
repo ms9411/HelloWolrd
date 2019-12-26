@@ -13,7 +13,7 @@ public class PersonExample {
 		p2.birthday = "1900-00-00";
 		p2.age = 20;
 		
-		
+	//	int double  변수형 함수들
 		Person p3 = new Person();
 		p3.name = "동홍길";
 		p3.birthday = "1900-00-00";
