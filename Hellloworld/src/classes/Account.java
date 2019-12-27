@@ -29,4 +29,11 @@ public class Account {
 	public void setBalanace(int balance) {
 		this.balance = balance;
 	}
+
+	@Override
+	public String toString() {
+		return "계좌정보 [계좌번호=" + ano + ", 소유자=" + owner + ", 잔액=" + balance + "]";
+	}
+	
+	
 }
